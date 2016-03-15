@@ -93,14 +93,18 @@ We are managing cookies by the cookie age. If the cookie ages is set to zero the
 %>
 ```
 First time when JSP page would run then it looks like that
+
+
 ![sample output11](http://www.roseindia.net/jsp/cookiestart.gif)
 
 As and when we store new values in cookie it will add till 10 values
+
+
 ![sample output11](http://www.roseindia.net/jsp/cookiesave.gif)
 
 as soon as we will add 11th value then first will be deleted.
 
-![sample output11]http://www.roseindia.net/jsp/11thadded.gif)
+![sample output11](http://www.roseindia.net/jsp/11thadded.gif)
 
 
 5.8 JSP implicit objects
