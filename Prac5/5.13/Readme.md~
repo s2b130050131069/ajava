@@ -1,0 +1,26 @@
+Java Server Pages (JSP)
+=======================
+5.13 JSP JSTL Functions
+-----------------------
+Write individual programs to demonstrate the use of following JSTL Functions. (One Program per function).
+
+`fn:contains(), fn:containsIgnoreCase(), fn:endsWith(), fn:escapeXml(), fn:indexOf(), fn:join(), fn:length(), fn:replace(), fn:split(), fn:startsWith(), fn:substring(), fn:substringAfter(), fn:substringBefore(), fn:toLowerCase(), fn:toUpperCase(), fn:trim()`.
+
+5.14 JSP Custom Tags
+--------------------
+Create a userdefined tag named `<today>` with a prefix 'm' (i.e. `<m:today>`) which will print system's current time stamp whenever it is accessed in a jsp page. (Hint: write mytags.tld, MyTagHandler.java and index.jsp files)
+
+5.15 Java Action Tags
+---------------------
+Write individual programs to demonstrate the use of following action tags. 
+    `<jsp:forward>, <jsp:include>, <jsp:usebean>`.
+
+5.16 MVC in JSP
+---------------
+Write following pages. 
+    1. Index.html (as loing controll with one textbox for username and one password box for password, with a submit button) (as view)
+    2. LoginServlet.java (as controller only)
+    3. LoginService.java (as Business Service)
+    4. Success.jsp (as view)
+
+Role of index.jsp is to take input from user and forward it to LoginServlet Servlet controller, LoginServlet Controller will ask LoginService Class which has a business service named `boolean authenticateUser(String, String)` to validate the user. if userId is "admin" and password is "admin" then application will redirect to success.jsp with welcome `<username>` message, otherwise it will be redirected to login.jsp with an error message "invalid username and password". 
