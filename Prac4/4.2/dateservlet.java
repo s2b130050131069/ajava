@@ -14,7 +14,7 @@ public class dateservlet extends HttpServlet {
         out.println("<title>Date</title>");
         out.println("</head>");
         out.println("<body>");
-        out.println("<h1>Date:"+new Date().toString()+" "+"130050131027</h1>");
+        out.println("<h1>Date:"+new Date().toString()+" "+"130050131069</h1>");
         out.println("</body>");
         out.println("</html>");
     }
