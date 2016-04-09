@@ -1,0 +1,7 @@
+![formatdateexample](https://cloud.githubusercontent.com/assets/17029783/14401587/333daac0-fdcb-11e5-9150-957246810974.PNG)
+![formatnumberexample](https://cloud.githubusercontent.com/assets/17029783/14401588/33442c9c-fdcb-11e5-9a44-662a347dc3f5.PNG)
+![messageexample](https://cloud.githubusercontent.com/assets/17029783/14401591/334dab82-fdcb-11e5-8277-322fca0e3908.PNG)
+![parsedateexample](https://cloud.githubusercontent.com/assets/17029783/14401589/3346e356-fdcb-11e5-858e-7ab3b8ea5865.PNG)
+![parsenumberexample](https://cloud.githubusercontent.com/assets/17029783/14401590/334aadd8-fdcb-11e5-8105-671733fa9770.PNG)
+![settimezoneexample](https://cloud.githubusercontent.com/assets/17029783/14401592/33506052-fdcb-11e5-8697-c35b4a41ca76.PNG)
+![timezoneexample](https://cloud.githubusercontent.com/assets/17029783/14401593/33707252-fdcb-11e5-8a41-cec0680ee9ff.PNG)
